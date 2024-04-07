@@ -1,6 +1,5 @@
 # WATSON NLP SENTIMENT ANALYSIS
-This repo is modified from the IBM SkillBuild AI embedded libraries.
-I learnt from that repo to conduct a flask server and run Watson NLP.
+This repo is modified from the IBM Dev skill network.
 
 ## Overview
 The input sentences are labelled as,
