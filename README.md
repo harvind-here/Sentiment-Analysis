@@ -15,7 +15,10 @@ Run, deploy and have fun!
 ## Snapshots
 
 <img width="893" alt="web_interface" src="https://github.com/harvind-here/Sentiment-Analysis/assets/138276429/86ad55bf-9d8d-47b4-bf81-be6094405c74">
-<img width="652" alt="final_deploymen" src="https://github.com/harvind-here/Sentiment-Analysis/assets/138276429/cbcecd55-ce16-4ea1-8071-3f649c443a78">
-<img width="797" alt="Error_handling_3" src="https://github.com/harvind-here/Sentiment-Analysis/assets/138276429/326c8da1-fb76-46bd-90c6-969674d8b4f7">
+
+![WhatsApp Image 2024-04-07 at 17 50 03_3863b45c](https://github.com/harvind-here/Sentiment-Analysis/assets/138276429/5798ef67-35ed-4d2f-b433-9b919aa31c70)
+
+![WhatsApp Image 2024-04-07 at 17 51 29_3e39270c](https://github.com/harvind-here/Sentiment-Analysis/assets/138276429/8d39b9bf-bb4a-4785-9234-63c103676c33)
+
 
 This repo is modified from the IBM Dev skill network.
