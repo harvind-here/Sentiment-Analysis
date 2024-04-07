@@ -1,7 +1,6 @@
 # WATSON NLP SENTIMENT ANALYSIS
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
- <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask&logoColor=white" alt="Flask">
- <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square&logo=nlp&logoColor=white" alt="NLP"> 
+## Skills:
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">  <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square&logo=nlp&logoColor=white" alt="NLP"> 
 ## Overview
 The input sentences are labelled as,
 
